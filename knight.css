@@ -1,0 +1,53 @@
+#bar{
+    height: 100vh;;
+    width: 100vw;
+
+    box-sizing: border-box;
+    background-image: url(	https://knight-bite.com/res/menu/banner.webp);
+    background-position: center;
+    background-size: cover;
+}
+p:first-child{
+    font-size: 20px;
+    margin-left: 80px;
+    display: inline-block;
+    color: white;
+}
+#bar1{
+    display: flex;
+    margin-left: 60%;
+    margin-top: -40px;
+    position: fixed;
+}
+#bar1 a{
+    justify-content: space-between;
+    margin-left: 50px;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.781);
+}
+#body{
+    display: flex;
+    margin-left: 170px;
+}
+#body a{
+    justify-content: space-between;
+    margin-left: 250px;
+   
+}
+#text{
+    display: flex;
+    margin-left: 340px;
+
+}
+#text a{
+    font-size: 30px;
+    justify-content: space-between;
+    margin-left: 120px;
+   
+    width: 250px;
+    color: white;
+
+}
+#anchor:visited{
+    color: blue;
+}

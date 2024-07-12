@@ -1,0 +1,123 @@
+#bar{
+    height: 100vh;;
+    width: 100vw;
+    border: 2px solid red;
+    box-sizing: border-box;
+    /* background-image: url(https://knight-bite.com/res/franchise/franchise_playback.mp4); */
+    
+    background-position: center;
+    background-size: cover;
+}
+#bar1{
+    display: flex;
+    margin-left: 60%;
+    margin-top: -40px;
+    /* position: fixed; */
+}
+#bar1 a{
+    justify-content: space-between;
+    margin-left: 50px;
+    font-size: 20px;
+    color: rgba(245, 77, 77, 0.781);
+    
+    
+    
+}
+video{
+    /* margin-left: 100px; */
+    margin-top: -50px;
+    width: 100%;
+    z-index: -1;
+}
+#heading{
+    font-size: 70px;
+    color: white;
+    margin-top: -600px;
+    margin-left: 300px;
+}
+#para1{
+    color: white;
+    margin-top: -400px;
+    margin-left: 350px;
+    font-size: 30px;
+}
+#button{
+    background-color: #FF5672;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 0px;
+    margin-left: -400px;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+a:last-child{
+    margin-left: 600px;
+    margin-top: 20px;
+}
+#Headding2{
+    text-align: center;
+    
+}
+#body p{
+    text-align: center;
+    font-size: 20px;
+}
+#anchor:visited{
+    color: blue;
+}
+#images{
+    border: 2px solid red;
+    display: flex;
+}
+#images img{
+    justify-content: space-between;
+    margin-left: 200px;
+}
+#imgh1{
+    display: flex;
+    margin-left: 20px;
+}
+#imgh1 b{
+    justify-content: space-between;
+    margin-left: 160px;
+    border: 2px solid red;
+}
+#imgp{
+    display: flex;
+    margin-left: 40px;
+}
+#imgp p{
+    justify-content: space-between;
+    margin-left: 110px;
+    width: 200px;
+}
+#images2{
+    display: flex;
+    margin-left: 330px;
+   
+}
+#images2 img{
+    justify-content: space-between;
+    margin-left: 200px;
+}
+#imgh2{
+    display: flex;
+    margin-left: 350px;
+}
+#imgh2 h1{
+    justify-content: space-between;
+    margin-left: 140px;
+    font-size: 17px;
+}
+#imgp2{
+    display: flex;
+    margin-left: 330px;
+}
+#imgp2 p{
+    justify-content: space-between;
+    margin-left: 115px;
+    width: 250px;
+    border:  2px solid red;
+}

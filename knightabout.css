@@ -1,0 +1,96 @@
+#bar{
+    height: 100vh;;
+    width: 100vw;
+    border: 2px solid red;
+    box-sizing: border-box;
+    background-image: url(https://knight-bite.com/res/about/banner.webp);
+    background-position: center;
+    background-size: cover;
+}
+p:first-child{
+    font-size: 20px;
+    margin-left: 80px;
+    display: inline-block;
+    color: white;
+}
+#bar1{
+    display: flex;
+    margin-left: 60%;
+    margin-top: -40px;
+    position: fixed;
+}
+#bar1 a{
+    justify-content: space-between;
+    margin-left: 50px;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.781);
+}
+#bar h1{
+    color: white;
+    font-size: 50px;
+    width: 50%;
+    margin-left: 50px;
+    
+}
+.main-bar{
+    width: 100vW;
+    height: 1000px;
+    border: 3px soli red;
+    box-sizing: border-box;
+    
+}
+#bar2{
+    
+    display: flex;
+}
+#bar2 img,p{
+    justify-content: center;
+    margin-left: 200px;
+}
+#bar2 p{
+    font-size: 25px;
+
+}
+#bar3{
+    
+    display: flex;
+   
+}
+#bar3 pre{
+    font-size: 20px;
+    margin-left: -100px;
+    width: 50%;
+}
+#bar3 img{
+    margin-left: 680px;
+    margin-top: -500px;
+}
+#bar4{
+    display: flex;
+}
+#bar4 img,p{
+    justify-content: space-between;
+    margin-left: 100px;
+}
+#bar4 p{
+    font-size: 25px;
+    margin-top: 200px;
+}
+#footer pre,h1{
+    margin-left: 100px;
+    font-size: 30px;
+    
+}
+#footer3{
+    margin-left: 60%;
+    margin-top: -199px;
+}
+#anchor:visited{
+    color: blue;
+}
+#anchor:link{
+    color: blue;
+}
+#anchor:visited{
+    color: blue;
+}
